@@ -1,0 +1,9 @@
+## Enter the content you want the bot to tweet/reply to tweets. 
+## Everything you want the bot to tweet must be written on one line without separating it into a new line. 
+## The bot will recognize the content as new content if it is put on a different line.
+## I will give some examples below:
+
+“The best team did not win this match.” – Jose Mourinho
+“I’m 30 now, but back when I was 19…that’s seven years ago.” – Lee Bowyer
+“The first 90 minutes are the most important.” – Bobby Robson
+“When you are 4-0 up you should never lose 7-1.” – Lawrie McMenemy
